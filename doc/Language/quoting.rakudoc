@@ -23,7 +23,7 @@ expression documentation|/language/regexes>.
 
 X<|Syntax,｢ ｣>
 
-=for code :skip-test<listing>
+=for code
 say Q[A literal string];
 say Q｢More plainly.｣;
 say Q^Almost any non-word character can be a delimiter!^;
