@@ -25,7 +25,7 @@ X<|Syntax,｢ ｣>
 
 =for code
 say Q[A literal string];
-say Q｢More plainly.｣;
+say ｢More plainly.｣;
 say Q^Almost any non-word character can be a delimiter!^;
 say Q｢｢Delimiters can be repeated/nested if they are adjacent.｣｣;
 say Q｟Quoting with fancy unicode pairs｠;
